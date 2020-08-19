@@ -4,5 +4,6 @@ public enum TypeOfSauce {
 
     STANDARD,
     BARBECUE,
-    THOUSAND_ISLANDS
+    THOUSAND_ISLANDS,
+    SALSA_CHILLI
 }
